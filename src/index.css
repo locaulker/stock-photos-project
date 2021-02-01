@@ -151,6 +151,7 @@ Stock Photos
 }
 .form-input {
   width: 100%;
+  outline: none;
 }
 .form-input,
 .submit-btn {
